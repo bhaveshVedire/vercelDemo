@@ -43,6 +43,7 @@ export default function Home() {
         <h3><b>Imagine a customer writes in requesting help with a build issue on a framework or
 technology that you have not seen before. How would you begin troubleshooting this and
 what questions would you ask the customer to understand the situation better?</b></h3>
+        </br>
         <p>
           Hello Yashashwini,</br>
 
