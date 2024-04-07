@@ -70,7 +70,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Hi This is Bhavesh Vedire with Yashu&nbsp;quizzes!
+            Hi This is Bhavesh Vedire with Yashashwini&nbsp;quizzes!
           </p>
         </a>
 
