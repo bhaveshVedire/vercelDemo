@@ -40,16 +40,16 @@ export default function Home() {
       </div>
 
       <div>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus augue metus, gravida vel nisi a, lobortis eleifend elit. Vivamus interdum, mauris eu efficitur tempus, nibh lectus malesuada nisi, et porta augue tortor id sapien. Donec aliquet turpis in tortor efficitur, nec efficitur nibh consectetur. Duis cursus ornare sapien nec auctor. Duis blandit urna sed dolor elementum, at lobortis justo fringilla. Mauris interdum odio mauris, ut dapibus leo accumsan nec. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed tincidunt sapien lorem, sed varius tellus mollis ac. Vivamus ac urna auctor, efficitur dui at, faucibus dolor. Quisque sed sagittis sem. Nullam aliquet odio diam, quis porta odio semper non. Cras eget neque vitae sem dignissim scelerisque. Donec sagittis in ligula quis venenatis.
+        <h3><b>Imagine a customer writes in requesting help with a build issue on a framework or
+technology that you've not seen before. How would you begin troubleshooting this and
+what questions would you ask the customer to understand the situation better?</b></h3>
+        <p>
+          Hello Yashashwini,
 
-        Integer nec mi erat. Phasellus cursus faucibus viverra. Fusce venenatis magna libero, eu iaculis enim porta ut. Suspendisse vitae vehicula elit, id pharetra diam. Sed mattis orci sit amet sem tincidunt, pulvinar imperdiet nisi aliquet. Fusce suscipit turpis non massa gravida interdum. Phasellus dolor mauris, malesuada at mollis nec, porttitor vitae nibh. Vivamus viverra nunc id eleifend tempus. Duis vel arcu non urna malesuada rhoncus dignissim a dui. Vivamus eget felis vel augue feugiat gravida. Nullam viverra, nulla varius fringilla ullamcorper, ex velit viverra risus, et viverra nisl nibh et ante. Ut placerat dictum erat eu pulvinar. Morbi sit amet lorem fringilla, suscipit libero sed, facilisis nibh. Aliquam maximus bibendum est. Praesent suscipit mi ornare, maximus enim vitae, hendrerit turpis. Sed laoreet tempor velit, sit amet euismod lectus efficitur eu.
+          Thank you for contacting vercel. My name is Sam, and I am happy to assist you.
 
-        Morbi lectus orci, vehicula a nunc vitae, pellentesque ullamcorper nibh. Nulla sed feugiat sem. Donec quis justo ac risus sodales sollicitudin. Morbi risus ante, pellentesque quis arcu vitae, convallis pulvinar ex. Duis magna ipsum, commodo ut laoreet vel, pellentesque gravida ex. Nullam nec elementum ex, non ornare augue. Phasellus at lacinia arcu. Donec tincidunt enim ut accumsan viverra. Suspendisse potenti. Suspendisse luctus faucibus ipsum, quis porttitor tortor hendrerit vitae. Suspendisse at justo ipsum. In mattis lacus id facilisis vulputate. Mauris felis elit, consequat a vestibulum eget, dictum et erat. Fusce condimentum nisl at maximus bibendum.
-
-        Phasellus id lacus a purus scelerisque ultrices id in nisi. Etiam gravida pulvinar tristique. Donec vulputate, purus vitae molestie tempor, est orci aliquam nisl, at sagittis est arcu id felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean quis ligula feugiat, ullamcorper nisi vel, convallis ligula. Integer vitae massa eu lacus accumsan dignissim. Nullam a ornare ex.
-
-        Praesent in tristique velit. Aenean dapibus non quam non porta. Sed tincidunt efficitur est. Quisque luctus non erat vitae fermentum. Duis in arcu sit amet justo ultrices semper. Sed vel hendrerit massa. Proin nec lectus lacinia, mattis sem vitae, facilisis massa. Integer fringilla dolor et elit venenatis, tincidunt tempor eros sagittis. Aliquam ultricies pretium lorem, a tincidunt leo. Pellentesque placerat, purus a pretium iaculis, metus magna aliquet eros, non lacinia ex lacus convallis nisl. Donec ligula nibh, sodales vitae suscipit sed, feugiat in mi. Donec semper porttitor risus, eu aliquam dui pulvinar eget. Sed aliquet venenatis nunc eget pulvinar.
-
+          Firstly, I apologise for the inconvience that has caused at your end due to this. In order to troubleshoot this issue further, Could you please help us in providing screenshot of any errors you are receiving, also could you please provide us with the steps, so that we can replicate this behaviour at our end and update you as soon as possible.
+Looking forward to your response!</p>
       </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
