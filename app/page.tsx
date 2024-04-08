@@ -39,22 +39,7 @@ export default function Home() {
         />
       </div>
       <div>
-        <h3><b>From this list, rank your 5 most favourite and 5 least favourite support tasks. Provide a brief explanation for each.</b></h3>
-        <p>
-          {"5 most favourite things:"} <br/>
-          {"1.Write and maintain support articles and docs pages: I enjoy crafting comprehensive documentation that can address common queries and provide solutions to customer issues."}<br/>
-          {"2.Create video tutorials to help teach users a specific feature or use case: Creating video tutorials can effectively guide users through various features and use cases, also it would be helpful for customers to utilise the product better."}<br/>
-          {"3.Respond to queries on Twitter, Reddit, Hacker News and other 3rd party sites: Contacting with users on platforms like Twitter, Reddit, and Hacker News allows for direct interaction and quick resolution of inquiries."}<br/>
-          {"4.Work with the product team to develop a new feature based on feedback from customers: Working closely with the product development team to convey the user feedback, it allows for meaningful contributions to the product's evolution and demonstrates a commitment to meeting users' needs."}<br/>
-          {"5.Scheduling time-off coverage and collaborating as part of a growing cohesive support team: Scheduling time-off coverage by collaborating with the team ensures seamless operations even when team members are away. Collaborating within a cohesive support team fosters a sense of unity and mutual support, enhancing overall productivity. This approach promotes a healthy work-life balance, boosting morale and job satisfaction."}<br/>
-
-          {"5 least favourite:"}<br/>
-          {"1.Engage multiple users at once in a public discussion, to answer their questions and troubleshoot : Engaging multiple users at once in a public discussion can be challenging, and also there will be a room for conflicts."}<br/>
-          {"2.Work with 3rd party partners to track down a tricky situation for a joint customer."}<br/>
-          {"3.Respond to 50+ support requests via email every day: Managing high-volume support requests can sometimes be overwhelming, potentially compromising the quality of support provided."}<br/>
-          {"4.Work with people to figure out if Vercel is suitable for their use case"}<br/>
-          {"5.Identify, file (and, where possible, resolve) bugs in private and public Vercel/Next.js repos on GitHub"}<br/>
-</p>
+        <h2>Please find the answers to the questions <a href="https://docs.google.com/document/d/13vM8v9RSw-XgYhDCSaNgbVHCSWXX0RhZ6W3NFOfmlpI/edit">here</a></h2>
       </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
