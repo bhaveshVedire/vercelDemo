@@ -39,7 +39,7 @@ export default function Home() {
         />
       </div>
       <div>
-        <h2> <a href="https://docs.google.com/document/d/13vM8v9RSw-XgYhDCSaNgbVHCSWXX0RhZ6W3NFOfmlpI/edit"><span>Please find the answers to the questions here</span></a></h2>
+        <h2 className={`mb-3 text-2xl font-semibold`}> <a href="https://docs.google.com/document/d/13vM8v9RSw-XgYhDCSaNgbVHCSWXX0RhZ6W3NFOfmlpI/edit"><span>Please find the answers to the questions here</span></a></h2>
       </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
