@@ -39,20 +39,6 @@ export default function Home() {
         />
       </div>
 
-      <div>
-        <h3><b>Imagine a customer writes in requesting help with a build issue on a framework or
-technology that you have not seen before. How would you begin troubleshooting this and
-what questions would you ask the customer to understand the situation better?</b></h3>
-        </br>
-        <p>
-          Hello Yashashwini,</br>
-
-          Thank you for contacting vercel. My name is Sam, and I am happy to assist you.</br>
-
-          Firstly, I apologise for the inconvience that has caused at your end due to this. In order to troubleshoot this issue further, Could you please help us in providing screenshot of any errors you are receiving, also could you please provide us with the steps, so that we can replicate this behaviour at our end and update you as soon as possible.
-Looking forward to your response!</br></p>
-      </div>
-
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
           href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
@@ -84,7 +70,7 @@ Looking forward to your response!</br></p>
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Hi This is Bhavesh Vedire with Yashashwini&nbsp;quizzes!
+            Learn about Next.js in an interactive course with&nbsp;quizzes!
           </p>
         </a>
 
