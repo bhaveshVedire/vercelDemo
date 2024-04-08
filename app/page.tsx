@@ -38,6 +38,9 @@ export default function Home() {
           priority
         />
       </div>
+      <div>
+        <h2 className={`mb-3 text-2xl font-semibold`}> <a href="https://docs.google.com/document/d/13vM8v9RSw-XgYhDCSaNgbVHCSWXX0RhZ6W3NFOfmlpI/edit"><span>Please find the answers to the questions here</span></a></h2>
+      </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
@@ -70,7 +73,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Hi This is Bhavesh Vedire with Yashashwini&nbsp;quizzes!
+            Learn about Next.js in an interactive course with&nbsp;quizzes!
           </p>
         </a>
 
